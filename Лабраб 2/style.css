@@ -1,0 +1,20 @@
+html, body{
+    width: 100%;
+    height: 100%;
+}
+#Head{
+    width: 100%;
+    height: 15%;
+}
+#LeftF{
+    width: 24%;
+    height: 75%;
+}
+#RightF{
+    width: 75%;
+    height: 75%;
+}
+#Bot{
+    width: 100%;
+    height: 10%;
+}
